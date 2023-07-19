@@ -1,0 +1,37 @@
+body 
+{
+    background-size: cover;
+    font-family: 'Neucha', cursive;
+
+}
+
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note 
+{
+    font-size: 15px;
+    color: black;
+}
+
+.div_song_name 
+{
+    float: center;
+}
+
+#name 
+{
+    font-size: 20px;
+    margin: 15px;
+}
+
+canvas 
+{
+    border: 5px solid white;
+    border-radius: 28px;
+    box-shadow: 5px 5px 5px lightpink;
+}
